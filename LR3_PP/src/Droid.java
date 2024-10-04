@@ -24,6 +24,9 @@ public class Droid {
 
         return health > 0;
     }
+      static void New(){
+        System.out.println("Hi");
+    }
     public void getHit(double damage){
         health -= damage;
         if (health < 0){
