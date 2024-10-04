@@ -25,7 +25,7 @@ public class HeavyDroid extends Droid{
                 health -= damage;
             } else if (shieldHealth > 0) {
                 shieldHealth -= damage;
-                System.out.println("No damage! Exactly into"+name+"'s the shield! Shield health: "+shieldHealth);
+                System.out.println("No damage! Exactly into "+name+"'s the shield! Shield health: "+shieldHealth);
             }
         }
 

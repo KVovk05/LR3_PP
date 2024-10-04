@@ -16,7 +16,7 @@ import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Random;
-// fight 1v1 mech + ui, write file,read from file,methods, packages
+// write file,read from file,methods, packages
 
 public class Main {
     static void FightTeam(ArrayList<Droid> DroidsList){
@@ -34,6 +34,7 @@ public class Main {
         for(int i = 0;i < amount;i++){
             System.out.println("Who you want to add in the first team as "+(i+1)+"player?");
             name = sc.nextLine();
+            sc.nextLine();
             for(Droid droid:Arr){
                 if(droid.getName().equals(name) && !(droid.isReserved())){
                     Team1[i] = droid;
@@ -59,26 +60,40 @@ public class Main {
                 }
             }
         }
+        System.out.println("    3-2-1 FIGHT!  ");
+        System.out.println("  ______________________\n" +
+                " /                      \\\n" +
+                "|                        |\n" +
+                "|                        |   \n" +
+                "|                        |   \n" +
+                "|   \uD83E\uDD16 | vs | \uD83E\uDD16     |   \n" +
+                "|                         |   \n" +
+                "|  D1:"+Team1[0].getName()+" D2:"+ Team2[0].getName() +"    |\n" +
+                "|  HP:" + (int) Team1[0].getHealth() + "       HP: " + (int) Team2[0].getHealth() + "    |\n" +
+                "|________________________|\n" +
+                " \\______________________/\n");
+
         while(Team1[0].IsAlive() && Team2[0].IsAlive()){
             whoHits = rand.nextInt(10);
+
+                if (whoHits >= 5) {
+                    Team1[0].Attack(Team2[0]);
+                    System.out.println("Droid " + Team1[0].getName() + " Team1 attacks " + Team2[0].getName() + " team 2\t(Damage: "+ Team1[0].damage +" " + Team2[0].getName() + " health:" + Team2[0].getHealth() + ")");
+                } else {
+                    Team2[0].Attack(Team1[0]);
+                    System.out.println("Droid " + Team2[0].getName() + " Team2 attacks " + Team1[0].getName() + " team1\t(Damage: "+Team2[0].damage +" " + Team1[0].getName() + " health:" + Team1[0].getHealth() + ")");
+                }
             System.out.println("  ______________________\n" +
                     " /                      \\\n" +
                     "|                        |\n" +
-                    "|    [====]    [====]    |   \n" +
-                    "|    |    |    |    |    |   \n" +
-                    "|    | D1 | vs | \uD83D\uDD25 |    |   \n" +
-                    "|    |____|    |____|    |   \n" +
-                    "|  D1:"+Team1[0].getName()+" D2:"+ Team2[0].getName() +"    |\n" +
+                    "|                        |   \n" +
+                    "|                        |   \n" +
+                    "|   \uD83E\uDD16 | vs | \uD83E\uDD16     |   \n" +
+                    "|                         |   \n" +
+                    " D1:"+Team1[0].getName()+" D2:"+ Team2[0].getName() +"    \n" +
                     "|  HP:" + (int) Team1[0].getHealth() + "       HP: " + (int) Team2[0].getHealth() + "    |\n" +
                     "|________________________|\n" +
                     " \\______________________/\n");
-                if (whoHits >= 5) {
-                    Team1[0].Attack(Team2[0]);
-                    System.out.println("Droid " + Team1[0].getName() + " Team1 attacks" + Team2[0].getName() + " team 2\t(Damage: "+ Team1[0].damage +" " + Team2[0].getName() + " health:" + Team2[0].getHealth() + ")");
-                } else {
-                    Team2[0].Attack(Team1[0]);
-                    System.out.println("Droid " + Team2[0].getName() + "Team2 attacks " + Team1[0].getName() + " team1\t(Damage: "+Team2[0].damage +" " + Team1[0].getName() + " health:" + Team1[0].getHealth() + ")");
-                }
                 if(!(Team1[0].IsAlive())){
                     for(int i = 0;i < Team1.length-1;i++){
                         Team1[i] = Team1[i + 1];
@@ -89,6 +104,36 @@ public class Main {
                         Team2[i] = Team2[i + 1];
                     }
                 }
+        }
+        if(Team1[0].IsAlive()){
+            System.out.println("\uD83C\uDF89Team 1 won!!\uD83C\uDF89");
+            System.out.println("  ______________________\n" +
+                    " /                      \\\n" +
+                    "|                        |\n" +
+                    "|                        |   \n" +
+                    "|                        |   \n" +
+                    "| \uD83C\uDFC6 | vs | \uD83D\uDCA5     |   \n" +
+                    "|                         |   \n" +
+                    " D1:"+Team1[0].getName()+" D2:"+ Team2[0].getName() +"    \n" +
+                    "|  HP:" + (int) Team1[0].getHealth() + "       HP: " + (int) Team2[0].getHealth() + "    |\n" +
+                    "|________________________|\n" +
+                    " \\______________________/\n");
+
+        }
+        else if(Team2[0].IsAlive()){
+            System.out.println("\uD83C\uDF89Team 2 won!!\uD83C\uDF89");
+            System.out.println("  ______________________\n" +
+                    " /                      \\\n" +
+                    "|                        |\n" +
+                    "|                        |   \n" +
+                    "|                        |   \n" +
+                    "| \uD83D\uDCA5  | vs |  \uD83C\uDFC6    |   \n" +
+                    "|                         |   \n" +
+                    " D1:"+Team1[0].getName()+" D2:"+ Team2[0].getName() +"    \n" +
+                    "|  HP:" + (int) Team1[0].getHealth() + "       HP: " + (int) Team2[0].getHealth() + "    |\n" +
+                    "|________________________|\n" +
+                    " \\______________________/\n");
+
         }
     }
     static void Fight1V1(ArrayList<Droid> DroidsList){
@@ -112,6 +157,18 @@ public class Main {
                 droid2 = droid;
             }
         }
+        System.out.println("    3-2-1 FIGHT!  ");
+        System.out.println("  ______________________\n" +
+                " /                      \\\n" +
+                "|                        |\n" +
+                "|                        |   \n" +
+                "|                        |   \n" +
+                "| \uD83E\uDD16 | vs | \uD83E\uDD16     |   \n" +
+                "|                         |   \n" +
+                "|  D1:"+droid1.getName()+" D2:"+ droid2.getName() +"    |\n" +
+                "|  HP:" + (int) droid1.getHealth() + "       HP: " + (int) droid2.getHealth() + "    |\n" +
+                "|________________________|\n" +
+                " \\______________________/\n");
 
         while(droid1.IsAlive() && droid2.IsAlive()){
             whoHits = rand.nextInt(10);
@@ -123,6 +180,46 @@ public class Main {
                 droid1.Attack(droid2);
                 System.out.println("Droid1 attacks droid 2\tdroid2 health:"+ droid2.getHealth());
             }
+            System.out.println("  ______________________\n" +
+                    " /                      \\\n" +
+                    "|                        |\n" +
+                    "|                        |   \n" +
+                    "|                        |   \n" +
+                    "| \uD83E\uDD16 | vs | \uD83E\uDD16     |   \n" +
+                    "|                         |   \n" +
+                    "|  D1:"+droid1.getName()+" D2:"+ droid2.getName() +"    |\n" +
+                    "|  HP:" + (int) droid1.getHealth() + "       HP: " + (int) droid2.getHealth() + "    |\n" +
+                    "|________________________|\n" +
+                    " \\______________________/\n");
+
+        }
+        if(droid1.IsAlive()){
+            System.out.println("Droid1 \uD83C\uDF89WON\uD83C\uDF89");
+            System.out.println("  ______________________\n" +
+                    " /                      \\\n" +
+                    "|                        |\n" +
+                    "|                        |   \n" +
+                    "|                        |   \n" +
+                    "|   \uD83C\uDFC6 | vs | \uD83D\uDCA5    |   \n" +
+                    "|                         |   \n" +
+                    "|  D1:"+droid1.getName()+" D2:"+ droid2.getName() +"    |\n" +
+                    "|  HP:" + (int) droid1.getHealth() + "       HP: " + (int) droid2.getHealth() + "    |\n" +
+                    "|________________________|\n" +
+                    " \\______________________/\n");
+        }
+        else if(droid2.IsAlive()){
+            System.out.println("Droid2 \uD83C\uDF89WON\uD83C\uDF89");
+            System.out.println("  ______________________\n" +
+                    " /                      \\\n" +
+                    "|                        |\n" +
+                    "|                        |   \n" +
+                    "|                        |   \n" +
+                    "|   \uD83D\uDCA5 | vs | \uD83C\uDFC6     |   \n" +
+                    "|                         |   \n" +
+                    "|  D1:"+droid1.getName()+" D2:"+ droid2.getName() +"    |\n" +
+                    "|  HP:" + (int) droid1.getHealth() + "       HP: " + (int) droid2.getHealth() + "    |\n" +
+                    "|________________________|\n" +
+                    " \\______________________/\n");
         }
 
     }
@@ -130,6 +227,9 @@ public class Main {
         for(int i = 0;i < DroidsList.size();i++){
             System.out.println("Droid" + (i+1) + ":" + DroidsList.get(i).name);
         }
+    }
+    static void WriteBattle(){
+        System.out.println("\nBattle has already written\n");
     }
     static void CreateDroid(ArrayList<Droid> DroidsList){
         int menu;
@@ -214,7 +314,7 @@ public class Main {
             case 2->DroidList(DroidsList);
             case 3->Fight1V1(DroidsList);
             case 4->FightTeam(DroidsList);
-//            case 5->WriteBattle();
+             case 5->WriteBattle();
 //            case 6->ReadBattle();
         }
 
