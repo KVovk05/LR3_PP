@@ -1,3 +1,5 @@
+package Droids;
+
 import java.util.Random;
 public class Droid {
     public String name;
@@ -5,6 +7,8 @@ public class Droid {
     protected double damage;
 
     protected boolean reserved = false;
+
+
 
     public Droid(String name, double health, double damage) {
         this.name = name;
@@ -23,9 +27,6 @@ public class Droid {
     public boolean IsAlive(){
 
         return health > 0;
-    }
-      static void New(){
-        System.out.println("Hi");
     }
     public void getHit(double damage){
         health -= damage;
@@ -47,8 +48,19 @@ public class Droid {
         return name;
     }
 
-    public double getDamageInfo() {
+    public double getDamage() {
         return damage;
+    }
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setHealth(double health) {
+        this.health = health;
+    }
+
+    public void setDamage(double damage) {
+        this.damage = damage;
     }
 
 

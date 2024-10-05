@@ -1,0 +1,341 @@
+    3-2-1 FIGHT!  
+Droid1 attacks droid 2	droid2 health:100.0
+Droid2 attacks droid 1	droid1 health:87.31607506060031
+Droid1 attacks droid 2	droid2 health:100.0
+Droid1 attacks droid 2	droid2 health:100.0
+Droid2 attacks droid 1	droid1 health:72.53193366252648
+Droid1 attacks droid 2	droid2 health:100.0
+Droid2 attacks droid 1	droid1 health:59.55900499768894
+Droid2 attacks droid 1	droid1 health:44.60129931069029
+Droid2 attacks droid 1	droid1 health:29.741875326626857
+Droid1 attacks droid 2	droid2 health:100.0
+Droid1 attacks droid 2	droid2 health:72.66773682384944
+Droid1 attacks droid 2	droid2 health:72.66773682384944
+Droid2 attacks droid 1	droid1 health:15.277624023037959
+Droid1 attacks droid 2	droid2 health:72.66773682384944
+Droid2 attacks droid 1	droid1 health:1.8803294771929995
+Droid1 attacks droid 2	droid2 health:72.66773682384944
+Droid2 attacks droid 1	droid1 health:0.0
+hev2 won
+
+    3-2-1 FIGHT!  
+Droid1 attacks droid 2	droid2 health:70.95714637813794
+Droid1 attacks droid 2	droid2 health:60.00901645892726
+Droid1 attacks droid 2	droid2 health:43.72047465509109
+Droid1 attacks droid 2	droid2 health:28.02224153579455
+Droid2 attacks droid 1	droid1 health:73.36398442700468
+Droid2 attacks droid 1	droid1 health:49.01510619423258
+Droid1 attacks droid 2	droid2 health:17.18744390797481
+Droid2 attacks droid 1	droid1 health:38.673277073916864
+Droid1 attacks droid 2	droid2 health:0.0
+com1 won
+
+    3-2-1 FIGHT!  
+Droid1 attacks droid 2	droid2 health:86.20245052193681
+Droid2 attacks droid 1	droid1 health:100.0
+Droid1 attacks droid 2	droid2 health:75.2289137143714
+Droid2 attacks droid 1	droid1 health:100.0
+Droid1 attacks droid 2	droid2 health:61.86672253989687
+Droid1 attacks droid 2	droid2 health:51.40265704673041
+Droid2 attacks droid 1	droid1 health:100.0
+Droid2 attacks droid 1	droid1 health:100.0
+Droid2 attacks droid 1	droid1 health:100.0
+Droid1 attacks droid 2	droid2 health:38.17868914797479
+Droid2 attacks droid 1	droid1 health:73.9064196374865
+Droid2 attacks droid 1	droid1 health:73.9064196374865
+Droid2 attacks droid 1	droid1 health:59.246814281933354
+Droid2 attacks droid 1	droid1 health:59.246814281933354
+Droid2 attacks droid 1	droid1 health:59.246814281933354
+Droid1 attacks droid 2	droid2 health:27.062571531410647
+Droid1 attacks droid 2	droid2 health:13.87487301452008
+Droid2 attacks droid 1	droid1 health:48.25957972069082
+Droid2 attacks droid 1	droid1 health:48.25957972069082
+Droid2 attacks droid 1	droid1 health:48.25957972069082
+Droid1 attacks droid 2	droid2 health:0.0
+hev2 won
+
+    3-2-1 FIGHT!  
+Droid1 attacks droid 2	droid2 health:75.85627329938136
+Droid1 attacks droid 2	droid2 health:75.85627329938136
+Droid2 attacks droid 1	droid1 health:89.73171645633651
+Droid1 attacks droid 2	droid2 health:75.85627329938136
+Droid1 attacks droid 2	droid2 health:75.85627329938136
+Droid2 attacks droid 1	droid1 health:78.46230422979991
+Droid1 attacks droid 2	droid2 health:56.27087629253744
+Droid2 attacks droid 1	droid1 health:65.40158134616297
+Droid1 attacks droid 2	droid2 health:56.27087629253744
+Droid2 attacks droid 1	droid1 health:53.71494375311677
+Droid2 attacks droid 1	droid1 health:41.60848595796212
+Droid2 attacks droid 1	droid1 health:28.056713757018414
+Droid1 attacks droid 2	droid2 health:56.27087629253744
+Droid1 attacks droid 2	droid2 health:56.27087629253744
+Droid1 attacks droid 2	droid2 health:56.27087629253744
+Droid2 attacks droid 1	droid1 health:14.859616286757927
+Droid1 attacks droid 2	droid2 health:56.27087629253744
+Droid1 attacks droid 2	droid2 health:56.27087629253744
+Droid1 attacks droid 2	droid2 health:26.51489074440075
+Droid1 attacks droid 2	droid2 health:0.0
+com1 won
+
+    3-2-1 FIGHT!  
+Droid2 attacks droid 1	droid1 health:87.43224056869892
+Droid2 attacks droid 1	droid1 health:75.81374107988968
+Droid1 attacks droid 2	droid2 health:100.0
+Droid2 attacks droid 1	droid1 health:62.24421203275376
+Droid1 attacks droid 2	droid2 health:100.0
+Droid1 attacks droid 2	droid2 health:100.0
+Droid2 attacks droid 1	droid1 health:51.79742791934973
+Droid2 attacks droid 1	droid1 health:37.898513282735365
+Droid1 attacks droid 2	droid2 health:84.35781779975014
+Droid1 attacks droid 2	droid2 health:84.35781779975014
+Droid2 attacks droid 1	droid1 health:25.94980448084371
+Droid1 attacks droid 2	droid2 health:67.46891465165521
+Droid2 attacks droid 1	droid1 health:14.380928509268605
+Droid2 attacks droid 1	droid1 health:1.7077599315333334
+Droid1 attacks droid 2	droid2 health:67.46891465165521
+Droid1 attacks droid 2	droid2 health:67.46891465165521
+Droid2 attacks droid 1	droid1 health:0.0
+hev2 won
+
+    3-2-1 FIGHT!  
+Droid2 attacks droid 1	droid1 health:89.99028190269112
+Droid1 attacks droid 2	droid2 health:89.59675633632386
+Droid2 attacks droid 1	droid1 health:75.85744439763812
+Droid2 attacks droid 1	droid1 health:65.69429590156106
+Droid2 attacks droid 1	droid1 health:53.842454328153075
+Droid1 attacks droid 2	droid2 health:89.59675633632386
+Droid1 attacks droid 2	droid2 health:89.59675633632386
+Droid1 attacks droid 2	droid2 health:73.69466396483539
+Droid2 attacks droid 1	droid1 health:43.39928480493883
+Droid1 attacks droid 2	droid2 health:73.69466396483539
+Droid1 attacks droid 2	droid2 health:73.69466396483539
+Droid1 attacks droid 2	droid2 health:73.69466396483539
+Droid1 attacks droid 2	droid2 health:73.69466396483539
+Droid1 attacks droid 2	droid2 health:73.69466396483539
+Droid1 attacks droid 2	droid2 health:73.69466396483539
+Droid2 attacks droid 1	droid1 health:29.248250375805746
+Droid1 attacks droid 2	droid2 health:59.25522530278149
+Droid2 attacks droid 1	droid1 health:16.657986568408646
+Droid1 attacks droid 2	droid2 health:59.25522530278149
+Droid2 attacks droid 1	droid1 health:3.2052355637311134
+Droid2 attacks droid 1	droid1 health:0.0
+hev2 won
+
+    3-2-1 FIGHT!  
+Droids.Droid cm1 Team1 attacks cm2 team 2	(Damage: 13.230329571716666 cm2 health:86.76967042828333)
+Droids.Droid cm1 Team1 attacks cm2 team 2	(Damage: 15.18329482777473 cm2 health:71.5863756005086)
+Droids.Droid cm1 Team1 attacks cm2 team 2	(Damage: 10.437977842574186 cm2 health:61.14839775793442)
+Droids.Droid cm1 Team1 attacks cm2 team 2	(Damage: 18.49441753904565 cm2 health:42.65398021888877)
+Droids.Droid cm2 Team2 attacks cm1 team1	(Damage: 18.94062001879945 cm1 health:81.05937998120055)
+Droids.Droid cm1 Team1 attacks cm2 team 2	(Damage: 16.384026992839473 cm2 health:26.269953226049296)
+Droids.Droid cm2 Team2 attacks cm1 team1	(Damage: 12.435036651739082 cm1 health:68.62434332946147)
+Droids.Droid cm2 Team2 attacks cm1 team1	(Damage: 29.074105049523872 cm1 health:39.550238279937595)
+Droids.Droid cm1 Team1 attacks cm2 team 2	(Damage: 12.118313699799952 cm2 health:14.151639526249344)
+Droids.Droid cm2 Team2 attacks cm1 team1	(Damage: 29.19179417391299 cm1 health:10.358444106024606)
+Droids.Droid cm2 Team2 attacks cm1 team1	(Damage: 22.73469846013377 cm1 health:0.0)
+Team1 2 won
+
+    3-2-1 FIGHT!  
+Droids.Droid c2 Team2 attacks c1 team1	(Damage: 27.275070501812877 c1 health:72.72492949818712)
+Droids.Droid c1 Team1 attacks c2 team 2	(Damage: 11.487714177919612 c2 health:88.51228582208039)
+Droids.Droid c2 Team2 attacks c1 team1	(Damage: 11.234562993400026 c1 health:61.4903665047871)
+Droids.Droid c1 Team1 attacks c2 team 2	(Damage: 15.925686425086372 c2 health:72.58659939699402)
+Droids.Droid c1 Team1 attacks c2 team 2	(Damage: 23.604514451641915 c2 health:48.9820849453521)
+Droids.Droid c1 Team1 attacks c2 team 2	(Damage: 28.85536264389736 c2 health:20.126722301454738)
+Droids.Droid c1 Team1 attacks c2 team 2	(Damage: 16.3952693666634 c2 health:3.7314529347913385)
+Droids.Droid c2 Team2 attacks c1 team1	(Damage: 21.485013395859884 c1 health:40.00535310892721)
+Droids.Droid c1 Team1 attacks c2 team 2	(Damage: 21.824500459651095 c2 health:0.0)
+Team1 1 won
+
+    3-2-1 FIGHT!  
+Droids.Droid c1 Team1 attacks c1 team 2	(Damage: 11.987853474885664 c1 health:88.01214652511433)
+Droids.Droid c1 Team1 attacks c1 team 2	(Damage: 29.93350459622386 c1 health:58.07864192889048)
+Droids.Droid c1 Team2 attacks c1 team1	(Damage: 19.863978320352327 c1 health:38.214663608538146)
+Droids.Droid c1 Team1 attacks c1 team 2	(Damage: 28.612921762399427 c1 health:9.601741846138719)
+Droids.Droid c1 Team2 attacks c1 team1	(Damage: 14.516015945371104 c1 health:0.0)
+
+    3-2-1 FIGHT!  
+Droids.Droid c1 Team1 attacks c2 team 2	(Damage: 25.585970344076337 c2 health:74.41402965592366)
+Droids.Droid c2 Team2 attacks c1 team1	(Damage: 13.508682088466761 c1 health:86.49131791153324)
+Droids.Droid c1 Team1 attacks c2 team 2	(Damage: 27.49518414117525 c2 health:46.918845514748405)
+Droids.Droid c1 Team1 attacks c2 team 2	(Damage: 10.49609409528695 c2 health:36.422751419461456)
+Droids.Droid c1 Team1 attacks c2 team 2	(Damage: 15.84647793739505 c2 health:20.576273482066405)
+Droids.Droid c2 Team2 attacks c1 team1	(Damage: 14.711586535964305 c1 health:71.77973137556894)
+Droids.Droid c2 Team2 attacks c1 team1	(Damage: 28.302801244930745 c1 health:43.476930130638195)
+Droids.Droid c1 Team1 attacks c2 team 2	(Damage: 21.01944334162414 c2 health:0.0)
+Team1 1 won
+
+    3-2-1 FIGHT!  
+Droids.Droid c1 Team1 attacks c2 team 2	(Damage: 20.97775844363011 c2 health:79.02224155636989)
+Droids.Droid c1 Team1 attacks c2 team 2	(Damage: 11.231158167445965 c2 health:67.79108338892392)
+Droids.Droid c2 Team2 attacks c1 team1	(Damage: 22.013228613298054 c1 health:77.98677138670195)
+Droids.Droid c1 Team1 attacks c2 team 2	(Damage: 16.909461313400342 c2 health:50.88162207552358)
+Droids.Droid c1 Team1 attacks c2 team 2	(Damage: 23.470804182339755 c2 health:27.410817893183825)
+Droids.Droid c2 Team2 attacks c1 team1	(Damage: 14.886913543784885 c1 health:63.09985784291706)
+Droids.Droid c1 Team1 attacks c2 team 2	(Damage: 12.676419580919385 c2 health:14.73439831226444)
+Droids.Droid c2 Team2 attacks c1 team1	(Damage: 20.773982445658046 c1 health:42.32587539725901)
+Droids.Droid c1 Team1 attacks c2 team 2	(Damage: 12.417755260641163 c2 health:2.316643051623277)
+Droids.Droid c1 Team1 attacks c2 team 2	(Damage: 24.51809191685913 c2 health:0.0)
+Team1 1 won
+
+    3-2-1 FIGHT!  
+Droid2 attacks droid 1	droid1 health:88.50578193718908
+Droid1 attacks droid 2	droid2 health:83.82413083495017
+Droid2 attacks droid 1	droid1 health:66.08540483882345
+Droid1 attacks droid 2	droid2 health:61.8972024572283
+Droid2 attacks droid 1	droid1 health:51.91959598326051
+Droid1 attacks droid 2	droid2 health:48.05315079007197
+Droid1 attacks droid 2	droid2 health:19.940678853155603
+Droid2 attacks droid 1	droid1 health:29.952995405345998
+Droid2 attacks droid 1	droid1 health:4.678417314359251
+Droid2 attacks droid 1	droid1 health:0.0
+c2 won
+
+    3-2-1 FIGHT!  
+Droids.Droid c2 Team2 attacks c1 team1	(Damage: 24.16584202424007 c1 health:75.83415797575992)
+Droids.Droid c2 Team2 attacks c1 team1	(Damage: 28.126145600153308 c1 health:47.708012375606614)
+Droids.Droid c2 Team2 attacks c1 team1	(Damage: 15.39507128278985 c1 health:32.312941092816764)
+Droids.Droid c1 Team1 attacks c2 team 2	(Damage: 26.92751469168721 c2 health:73.07248530831279)
+Droids.Droid c2 Team2 attacks c1 team1	(Damage: 17.691429533773828 c1 health:14.621511559042936)
+Droids.Droid c1 Team1 attacks c2 team 2	(Damage: 11.060970950703098 c2 health:62.0115143576097)
+Droids.Droid c2 Team2 attacks c1 team1	(Damage: 27.943757060380257 c1 health:0.0)
+Droids.Droid h1 Team1 attacks c2 team 2	(Damage: 12.718447055159892 c2 health:49.293067302449806)
+Droids.Droid c2 Team2 attacks h1 team1	(Damage: 16.997040125462853 h1 health:100.0)
+Droids.Droid c2 Team2 attacks h1 team1	(Damage: 14.530226548158351 h1 health:100.0)
+Droids.Droid c2 Team2 attacks h1 team1	(Damage: 12.75794378591359 h1 health:100.0)
+Droids.Droid c2 Team2 attacks h1 team1	(Damage: 15.841815676075369 h1 health:100.0)
+Droids.Droid h1 Team1 attacks c2 team 2	(Damage: 12.502720536215632 c2 health:36.79034676623417)
+Droids.Droid c2 Team2 attacks h1 team1	(Damage: 10.414774597707995 h1 health:100.0)
+Droids.Droid h1 Team1 attacks c2 team 2	(Damage: 11.617065935633114 c2 health:25.17328083060106)
+Droids.Droid h1 Team1 attacks c2 team 2	(Damage: 10.379170429109973 c2 health:14.794110401491086)
+Droids.Droid h1 Team1 attacks c2 team 2	(Damage: 14.119893906783558 c2 health:0.6742164947075278)
+Droids.Droid c2 Team2 attacks h1 team1	(Damage: 10.847040157480938 h1 health:100.0)
+Droids.Droid h1 Team1 attacks c2 team 2	(Damage: 10.853130814051884 c2 health:0.0)
+Droids.Droid h1 Team1 attacks h2 team 2	(Damage: 11.314487003898682 h2 health:100.0)
+Droids.Droid h2 Team2 attacks h1 team1	(Damage: 11.798017607703901 h1 health:100.0)
+Droids.Droid h1 Team1 attacks h2 team 2	(Damage: 10.105111957561602 h2 health:100.0)
+Droids.Droid h2 Team2 attacks h1 team1	(Damage: 10.18349950078554 h1 health:100.0)
+Droids.Droid h2 Team2 attacks h1 team1	(Damage: 11.223792127959786 h1 health:100.0)
+Droids.Droid h1 Team1 attacks h2 team 2	(Damage: 14.772576564567434 h2 health:100.0)
+Droids.Droid h1 Team1 attacks h2 team 2	(Damage: 14.555998439750763 h2 health:100.0)
+Droids.Droid h1 Team1 attacks h2 team 2	(Damage: 13.11032042730572 h2 health:100.0)
+Droids.Droid h1 Team1 attacks h2 team 2	(Damage: 12.006444566286635 h2 health:100.0)
+Droids.Droid h2 Team2 attacks h1 team1	(Damage: 10.088729419985508 h1 health:100.0)
+Droids.Droid h1 Team1 attacks h2 team 2	(Damage: 14.07078130509526 h2 health:100.0)
+Droids.Droid h1 Team1 attacks h2 team 2	(Damage: 12.576377060751103 h2 health:100.0)
+Droids.Droid h1 Team1 attacks h2 team 2	(Damage: 10.425477572787601 h2 health:100.0)
+Droids.Droid h1 Team1 attacks h2 team 2	(Damage: 12.810373631120395 h2 health:100.0)
+Droids.Droid h1 Team1 attacks h2 team 2	(Damage: 13.446022025512262 h2 health:100.0)
+Droids.Droid h1 Team1 attacks h2 team 2	(Damage: 13.601286394916169 h2 health:100.0)
+Droids.Droid h1 Team1 attacks h2 team 2	(Damage: 10.526530387604296 h2 health:89.4734696123957)
+Droids.Droid h2 Team2 attacks h1 team1	(Damage: 12.109093166570041 h1 health:100.0)
+Droids.Droid h1 Team1 attacks h2 team 2	(Damage: 12.335345181035144 h2 health:89.4734696123957)
+Droids.Droid h2 Team2 attacks h1 team1	(Damage: 12.592584790379448 h1 health:87.40741520962055)
+Droids.Droid h2 Team2 attacks h1 team1	(Damage: 14.798584603939558 h1 health:72.60883060568099)
+Droids.Droid h2 Team2 attacks h1 team1	(Damage: 10.632341561988815 h1 health:61.976489043692176)
+Droids.Droid h1 Team1 attacks h2 team 2	(Damage: 10.374506255018495 h2 health:89.4734696123957)
+Droids.Droid h2 Team2 attacks h1 team1	(Damage: 13.145962604148625 h1 health:61.976489043692176)
+Droids.Droid h2 Team2 attacks h1 team1	(Damage: 12.728256061445917 h1 health:61.976489043692176)
+Droids.Droid h2 Team2 attacks h1 team1	(Damage: 14.370214794222846 h1 health:61.976489043692176)
+Droids.Droid h2 Team2 attacks h1 team1	(Damage: 12.383376255875039 h1 health:61.976489043692176)
+Droids.Droid h1 Team1 attacks h2 team 2	(Damage: 13.397357502134376 h2 health:89.4734696123957)
+Droids.Droid h1 Team1 attacks h2 team 2	(Damage: 12.254849030183838 h2 health:89.4734696123957)
+Droids.Droid h1 Team1 attacks h2 team 2	(Damage: 13.306143068608778 h2 health:76.16732654378693)
+Droids.Droid h2 Team2 attacks h1 team1	(Damage: 10.448328811768292 h1 health:61.976489043692176)
+Droids.Droid h2 Team2 attacks h1 team1	(Damage: 12.977846620903772 h1 health:61.976489043692176)
+Droids.Droid h2 Team2 attacks h1 team1	(Damage: 13.471593906026225 h1 health:48.504895137665955)
+Droids.Droid h1 Team1 attacks h2 team 2	(Damage: 13.814104957709414 h2 health:62.35322158607751)
+Droids.Droid h1 Team1 attacks h2 team 2	(Damage: 12.384514296440265 h2 health:49.968707289637244)
+Droids.Droid h1 Team1 attacks h2 team 2	(Damage: 12.590891006104027 h2 health:37.37781628353322)
+Droids.Droid h2 Team2 attacks h1 team1	(Damage: 11.7372126030927 h1 health:36.767682534573254)
+Droids.Droid h1 Team1 attacks h2 team 2	(Damage: 13.33739207005454 h2 health:24.04042421347868)
+Droids.Droid h1 Team1 attacks h2 team 2	(Damage: 10.359379417298335 h2 health:13.681044796180345)
+Droids.Droid h2 Team2 attacks h1 team1	(Damage: 13.29379233199045 h1 health:23.473890202582805)
+Droids.Droid h1 Team1 attacks h2 team 2	(Damage: 11.860351522559105 h2 health:1.8206932736212398)
+Droids.Droid h2 Team2 attacks h1 team1	(Damage: 10.39303418574766 h1 health:13.080856016835146)
+Droids.Droid h2 Team2 attacks h1 team1	(Damage: 14.354004706737882 h1 health:0.0)
+Team1 2 won
+
+    3-2-1 FIGHT!  
+Droid c1 Team1 attacks c2 team 2	(Damage: 15.545491138419344 c2 health:84.45450886158065)
+Droid c2 Team2 attacks c1 team1	(Damage: 14.044187925934535 c1 health:85.95581207406546)
+Droid c2 Team2 attacks c1 team1	(Damage: 21.40957744414454 c1 health:64.54623462992092)
+Droid c2 Team2 attacks c1 team1	(Damage: 18.52072487284315 c1 health:46.02550975707777)
+Droid c2 Team2 attacks c1 team1	(Damage: 20.3150124984709 c1 health:25.71049725860687)
+Droid c1 Team1 attacks c2 team 2	(Damage: 17.268590009274845 c2 health:67.1859188523058)
+Droid c2 Team2 attacks c1 team1	(Damage: 24.1434350314126 c1 health:1.5670622271942705)
+Droid c1 Team1 attacks c2 team 2	(Damage: 17.413949868949565 c2 health:49.77196898335624)
+Droid c2 Team2 attacks c1 team1	(Damage: 13.279940537562878 c1 health:0.0)
+Droid c2 Team2 attacks h1 team1	(Damage: 21.23515076132218 h1 health:100.0)
+Droid h1 Team1 attacks c2 team 2	(Damage: 13.418365560491287 c2 health:36.35360342286495)
+Droid c2 Team2 attacks h1 team1	(Damage: 28.441611552293907 h1 health:100.0)
+Droid c2 Team2 attacks h1 team1	(Damage: 12.816445026315579 h1 health:100.0)
+Droid c2 Team2 attacks h1 team1	(Damage: 16.207246702205126 h1 health:83.79275329779487)
+Droid h1 Team1 attacks c2 team 2	(Damage: 10.328942985896212 c2 health:26.024660436968738)
+Droid c2 Team2 attacks h1 team1	(Damage: 27.133914547871967 h1 health:83.79275329779487)
+Droid c2 Team2 attacks h1 team1	(Damage: 21.420345833738995 h1 health:62.37240746405588)
+Droid h1 Team1 attacks c2 team 2	(Damage: 10.739916527572504 c2 health:15.284743909396234)
+Droid c2 Team2 attacks h1 team1	(Damage: 20.358235289689592 h1 health:62.37240746405588)
+Droid c2 Team2 attacks h1 team1	(Damage: 21.751828266184106 h1 health:62.37240746405588)
+Droid h1 Team1 attacks c2 team 2	(Damage: 12.78728199416663 c2 health:2.4974619152296036)
+Droid h1 Team1 attacks c2 team 2	(Damage: 10.580227723819885 c2 health:0.0)
+Droid h1 Team1 attacks h2 team 2	(Damage: 13.691112109539787 h2 health:100.0)
+Droid h2 Team2 attacks h1 team1	(Damage: 13.535681154652075 h1 health:62.37240746405588)
+Droid h2 Team2 attacks h1 team1	(Damage: 11.099023365161408 h1 health:62.37240746405588)
+Droid h2 Team2 attacks h1 team1	(Damage: 13.803833833643177 h1 health:62.37240746405588)
+Droid h1 Team1 attacks h2 team 2	(Damage: 12.839435087637344 h2 health:100.0)
+Droid h2 Team2 attacks h1 team1	(Damage: 10.398723911906691 h1 health:62.37240746405588)
+Droid h1 Team1 attacks h2 team 2	(Damage: 14.21337068086072 h2 health:100.0)
+Droid h1 Team1 attacks h2 team 2	(Damage: 10.16514030350893 h2 health:100.0)
+Droid h1 Team1 attacks h2 team 2	(Damage: 14.89318308778795 h2 health:100.0)
+Droid h2 Team2 attacks h1 team1	(Damage: 14.88400051316091 h1 health:62.37240746405588)
+Droid h2 Team2 attacks h1 team1	(Damage: 14.521129438659333 h1 health:47.85127802539655)
+Droid h1 Team1 attacks h2 team 2	(Damage: 10.283642392352503 h2 health:89.7163576076475)
+Droid h2 Team2 attacks h1 team1	(Damage: 11.870262367593073 h1 health:47.85127802539655)
+Droid h1 Team1 attacks h2 team 2	(Damage: 12.334060550982876 h2 health:89.7163576076475)
+Droid h2 Team2 attacks h1 team1	(Damage: 14.484590972629459 h1 health:33.36668705276709)
+Droid h1 Team1 attacks h2 team 2	(Damage: 14.588308178999135 h2 health:89.7163576076475)
+Droid h1 Team1 attacks h2 team 2	(Damage: 13.05447749865903 h2 health:76.66188010898847)
+Droid h2 Team2 attacks h1 team1	(Damage: 12.495350749791175 h1 health:20.871336302975916)
+Droid h2 Team2 attacks h1 team1	(Damage: 12.788292435639697 h1 health:8.083043867336219)
+Droid h2 Team2 attacks h1 team1	(Damage: 11.046858930134078 h1 health:0.0)
+Droid f1 Team1 attacks h2 team 2	(Damage: 19.275193399875256 h2 health:76.66188010898847)
+Droid f1 Team1 attacks h2 team 2	(Damage: 29.260730997207634 h2 health:47.40114911178084)
+Droid h2 Team2 attacks f1 team1	(Damage: 11.712211959496807 f1 health:48.287788040503195)
+Droid f1 Team1 attacks h2 team 2	(Damage: 31.61103635904445 h2 health:15.790112752736388)
+Droid f1 Team1 attacks h2 team 2	(Damage: 38.69867627277891 h2 health:15.790112752736388)
+Droid h2 Team2 attacks f1 team1	(Damage: 13.61132571087298 f1 health:34.67646232963021)
+Droid h2 Team2 attacks f1 team1	(Damage: 10.479735533297722 f1 health:24.19672679633249)
+Droid h2 Team2 attacks f1 team1	(Damage: 12.79220388762861 f1 health:11.404522908703882)
+Droid f1 Team1 attacks h2 team 2	(Damage: 49.48111052243136 h2 health:15.790112752736388)
+Droid f1 Team1 attacks h2 team 2	(Damage: 31.516598824348144 h2 health:0.0)
+Droid f2 Team2 attacks f1 team1	(Damage: 22.183907164599653 f1 health:0.0)
+Team1 2 won
+
+    3-2-1 FIGHT!  
+Droid1 attacks droid 2	droid2 health:100.0
+Droid1 attacks droid 2	droid2 health:100.0
+Droid1 attacks droid 2	droid2 health:64.03315105634928
+Droid2 attacks droid 1	droid1 health:48.29343862370016
+Droid2 attacks droid 1	droid1 health:36.6801836130677
+Droid2 attacks droid 1	droid1 health:22.750708157468782
+Droid2 attacks droid 1	droid1 health:8.15615709961218
+Droid2 attacks droid 1	droid1 health:0.0
+hev2 won
+
+    3-2-1 FIGHT!  
+c2attacksc1	c1 health:88.03861213769054c1attacksc2	c2 health:88.03861213769054c1attacksc2	c2 health:88.03861213769054c1attacksc2	c2 health:88.03861213769054c1attacksc2	c2 health:88.03861213769054c1 won
+
+    3-2-1 FIGHT!  
+cm2attackscm1	cm1 health:88.8876497440845
+cm1 attacks cm2	|cm2health:88.8876497440845
+cm2attackscm1	cm1 health:74.51649728307851
+cm2attackscm1	cm1 health:60.40102744070484
+cm1 attacks cm2	|cm2health:60.40102744070484
+cm1 attacks cm2	|cm2health:60.40102744070484
+cm2attackscm1	cm1 health:48.9710978162953
+cm2attackscm1	cm1 health:28.93945295454381
+cm1 attacks cm2	|cm2health:28.93945295454381
+cm1 attacks cm2	|cm2health:28.93945295454381
+cm1 won
+

@@ -1,3 +1,5 @@
+package Droids;
+
 import java.util.Random;
 
 public class FuriousDroid extends Droid {
@@ -26,5 +28,13 @@ public class FuriousDroid extends Droid {
         damage *= damageMultiplCoeff;
         enemy.getHit(damage);
 
+    }
+
+    public double getDamageMultiplCoeff() {
+        return damageMultiplCoeff;
+    }
+
+    public void setDamageMultiplCoeff(double damageMultiplCoeff) {
+        this.damageMultiplCoeff = damageMultiplCoeff;
     }
 }

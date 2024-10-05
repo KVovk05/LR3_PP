@@ -1,5 +1,7 @@
+package Droids;
+
 import java.util.Random;
-import java.util.Random;
+
 public class HeavyDroid extends Droid{
     Random rand = new Random();
     protected double shieldHealth = 200;
@@ -25,7 +27,7 @@ public class HeavyDroid extends Droid{
                 health -= damage;
             } else if (shieldHealth > 0) {
                 shieldHealth -= damage;
-                System.out.println("No damage! Exactly into "+name+"'s the shield! Shield health: "+shieldHealth);
+                System.out.println("No damage! Exactly into "+name+"'s  shield! Shield health: "+shieldHealth);
             }
         }
 
@@ -41,4 +43,12 @@ public class HeavyDroid extends Droid{
         enemy.getHit(damage);
     }
 
+
+    public void setShieldHealth(double shieldHealth) {
+        this.shieldHealth = shieldHealth;
+    }
+
+    public double getShieldHealth() {
+        return shieldHealth;
+    }
 }
